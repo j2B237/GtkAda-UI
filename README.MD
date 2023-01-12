@@ -7,8 +7,9 @@
 -- Inside doc folder you can find the code architecture used to implement this widget.
 
 
--- Why this system's architecture because the solution on "https://rosettacode.org/wiki/User_input/Graphical#Ada"
--- there is an error : subprogram must not be deeper than access type 
+-- Why this system's architecture ?
+-- because the solution on "https://rosettacode.org/wiki/User_input/Graphical#Ada"
+-- has an error : subprogram must not be deeper than access type 
 -- Meanning that :
 -- "" 
 --	The problem is that there is nothing special about the main-program procedure.	
